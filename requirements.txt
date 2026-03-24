@@ -1,0 +1,6 @@
+ipykernel
+matplotlib
+numpy<2.0.0
+pandas<2.0.0
+pingouin
+seaborn
